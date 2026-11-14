@@ -1,0 +1,5 @@
+city,client_billing,vendor_billed,vendor_overbilling_found,vendor_payable_after_checks,gross_margin_pct
+Chennai,2122700.0,1485500.0,6300.0,1479200.0,30.3
+Mumbai,2174236.0,1491300.0,0.0,1491300.0,31.4
+Navi Mumbai,2231756.0,1491000.0,17350.0,1473650.0,34.0
+Pune,2159116.0,1511000.0,2250.0,1508750.0,30.1

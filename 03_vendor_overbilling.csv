@@ -1,0 +1,8 @@
+city,route_id,vendor,days_logged,days_billed,extra_days_billed,overbilled_amount
+Navi Mumbai,R209,Vendor B,18,20,2,4600.0
+Navi Mumbai,R229,Vendor B,18,20,2,4500.0
+Navi Mumbai,R228,Vendor B,18,20,2,4200.0
+Chennai,R421,Vendor D,18,20,2,4200.0
+Navi Mumbai,R225,Vendor B,18,20,2,4050.0
+Pune,R331,Vendor C,19,20,1,2250.0
+Chennai,R407,Vendor D,19,20,1,2100.0

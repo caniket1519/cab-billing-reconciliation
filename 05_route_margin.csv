@@ -1,0 +1,16 @@
+city,route_id,area,client_rate,vendor_rate,margin,margin_pct,lowest_margin_rank_in_city
+Chennai,R405,Porur,56500.0,50000.0,6500.0,11.5,1
+Chennai,R410,Porur,56500.0,50000.0,6500.0,11.5,1
+Chennai,R414,OMR,56500.0,50000.0,6500.0,11.5,1
+Mumbai,R101,Virar,56500.0,50000.0,6500.0,11.5,1
+Mumbai,R117,Andheri,56500.0,50000.0,6500.0,11.5,1
+Mumbai,R129,Dadar,56500.0,50000.0,6500.0,11.5,1
+Mumbai,R130,Andheri,56500.0,50000.0,6500.0,11.5,1
+Navi Mumbai,R206,Ghansoli,56500.0,50000.0,6500.0,11.5,1
+Navi Mumbai,R220,Taloja,56500.0,50000.0,6500.0,11.5,1
+Navi Mumbai,R224,Panvel,56500.0,50000.0,6500.0,11.5,1
+Pune,R304,Kharadi,56500.0,50000.0,6500.0,11.5,1
+Pune,R308,Viman Nagar,56500.0,50000.0,6500.0,11.5,1
+Pune,R310,Pimple Saudagar,56500.0,50000.0,6500.0,11.5,1
+Pune,R317,Aundh,56500.0,50000.0,6500.0,11.5,1
+Pune,R321,Hinjewadi,56500.0,50000.0,6500.0,11.5,1
