@@ -1,6 +1,0 @@
-city,routes,cab_days,trips,total_km,avg_km_per_day,extra_hours
-Chennai,35,697,1394,42359,60.8,486.5
-Mumbai,35,698,1396,46228,66.2,477.5
-Navi Mumbai,35,690,1380,49791,72.2,449.0
-Pune,35,699,1398,44426,63.6,478.5
-ALL CITIES,140,2784,5568,182804,65.7,1891.5
