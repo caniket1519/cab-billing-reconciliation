@@ -1,0 +1,141 @@
+route_id,city_id,city,area,vendor,client_rate,vendor_rate,contract_days,approved_km_per_day,extra_km_rate
+R101,1,Mumbai,Virar,Vendor A,56500,50000,20,50,16
+R102,1,Mumbai,Kandivali,Vendor A,56500,42000,20,50,16
+R103,1,Mumbai,Thane,Vendor A,56500,37000,20,50,16
+R104,1,Mumbai,Vikhroli,Vendor A,56500,45000,20,50,16
+R105,1,Mumbai,Kandivali,Vendor A,56500,37000,20,50,16
+R106,1,Mumbai,Vikhroli,Vendor A,56500,45000,20,50,16
+R107,1,Mumbai,Borivali,Vendor A,56500,40500,20,50,16
+R108,1,Mumbai,Andheri,Vendor A,56500,37000,20,50,16
+R109,1,Mumbai,Vasai,Vendor A,56500,46000,20,50,16
+R110,1,Mumbai,Vikhroli,Vendor A,56500,42000,20,50,16
+R111,1,Mumbai,Kandivali,Vendor A,56500,42000,20,50,16
+R112,1,Mumbai,Thane,Vendor A,56500,42000,20,50,16
+R113,1,Mumbai,Kurla,Vendor A,56500,42000,20,50,16
+R114,1,Mumbai,Thane,Vendor A,56500,37000,20,50,16
+R115,1,Mumbai,Dadar,Vendor A,56500,40500,20,50,16
+R116,1,Mumbai,Kandivali,Vendor A,56500,40500,20,50,16
+R117,1,Mumbai,Andheri,Vendor A,56500,50000,20,50,16
+R118,1,Mumbai,Borivali,Vendor A,56500,42000,20,50,16
+R119,1,Mumbai,Kandivali,Vendor A,56500,40500,20,50,16
+R120,1,Mumbai,Vasai,Vendor A,56500,42000,20,50,16
+R121,1,Mumbai,Dadar,Vendor A,56500,40500,20,50,16
+R122,1,Mumbai,Kurla,Vendor A,56500,37000,20,50,16
+R123,1,Mumbai,Vasai,Vendor A,56500,46000,20,50,16
+R124,1,Mumbai,Thane,Vendor A,56500,45000,20,50,16
+R125,1,Mumbai,Kandivali,Vendor A,56500,42000,20,50,16
+R126,1,Mumbai,Kandivali,Vendor A,56500,37000,20,50,16
+R127,1,Mumbai,Vasai,Vendor A,56500,46000,20,50,16
+R128,1,Mumbai,Kandivali,Vendor A,56500,42000,20,50,16
+R129,1,Mumbai,Dadar,Vendor A,56500,50000,20,50,16
+R130,1,Mumbai,Andheri,Vendor A,56500,50000,20,50,16
+R131,1,Mumbai,Vikhroli,Vendor A,56500,45000,20,50,16
+R132,1,Mumbai,Virar,Vendor A,56500,42000,20,50,16
+R133,1,Mumbai,Kurla,Vendor A,56500,46000,20,50,16
+R134,1,Mumbai,Vikhroli,Vendor A,56500,42000,20,50,16
+R135,1,Mumbai,Vasai,Vendor A,56500,45000,20,50,16
+R201,2,Navi Mumbai,Ghansoli,Vendor B,56500,40500,20,50,16
+R202,2,Navi Mumbai,Kharghar,Vendor B,56500,42000,20,50,16
+R203,2,Navi Mumbai,Ulwe,Vendor B,56500,37000,20,50,16
+R204,2,Navi Mumbai,Taloja,Vendor B,56500,40500,20,50,16
+R205,2,Navi Mumbai,Koparkhairane,Vendor B,56500,46000,20,50,16
+R206,2,Navi Mumbai,Ghansoli,Vendor B,56500,50000,20,50,16
+R207,2,Navi Mumbai,Seawoods,Vendor B,56500,42000,20,50,16
+R208,2,Navi Mumbai,Seawoods,Vendor B,56500,45000,20,50,16
+R209,2,Navi Mumbai,Seawoods,Vendor B,56500,46000,20,50,16
+R210,2,Navi Mumbai,Kharghar,Vendor B,56500,37000,20,50,16
+R211,2,Navi Mumbai,Seawoods,Vendor B,56500,45000,20,50,16
+R212,2,Navi Mumbai,Kharghar,Vendor B,56500,46000,20,50,16
+R213,2,Navi Mumbai,Ulwe,Vendor B,56500,37000,20,50,16
+R214,2,Navi Mumbai,Taloja,Vendor B,56500,46000,20,50,16
+R215,2,Navi Mumbai,Kharghar,Vendor B,56500,46000,20,50,16
+R216,2,Navi Mumbai,Seawoods,Vendor B,56500,42000,20,50,16
+R217,2,Navi Mumbai,Ulwe,Vendor B,56500,42000,20,50,16
+R218,2,Navi Mumbai,Ghansoli,Vendor B,56500,40500,20,50,16
+R219,2,Navi Mumbai,Ulwe,Vendor B,56500,45000,20,50,16
+R220,2,Navi Mumbai,Taloja,Vendor B,56500,50000,20,50,16
+R221,2,Navi Mumbai,Koparkhairane,Vendor B,56500,42000,20,50,16
+R222,2,Navi Mumbai,Koparkhairane,Vendor B,56500,42000,20,50,16
+R223,2,Navi Mumbai,Taloja,Vendor B,56500,42000,20,50,16
+R224,2,Navi Mumbai,Panvel,Vendor B,56500,50000,20,50,16
+R225,2,Navi Mumbai,Seawoods,Vendor B,56500,40500,20,50,16
+R226,2,Navi Mumbai,Koparkhairane,Vendor B,56500,40500,20,50,16
+R227,2,Navi Mumbai,Ghansoli,Vendor B,56500,42000,20,50,16
+R228,2,Navi Mumbai,Taloja,Vendor B,56500,42000,20,50,16
+R229,2,Navi Mumbai,Taloja,Vendor B,56500,45000,20,50,16
+R230,2,Navi Mumbai,Taloja,Vendor B,56500,42000,20,50,16
+R231,2,Navi Mumbai,Panvel,Vendor B,56500,40500,20,50,16
+R232,2,Navi Mumbai,Kharghar,Vendor B,56500,42000,20,50,16
+R233,2,Navi Mumbai,Ulwe,Vendor B,56500,46000,20,50,16
+R234,2,Navi Mumbai,Taloja,Vendor B,56500,37000,20,50,16
+R235,2,Navi Mumbai,Ghansoli,Vendor B,56500,37000,20,50,16
+R301,3,Pune,Baner,Vendor C,56500,42000,20,50,16
+R302,3,Pune,Wakad,Vendor C,56500,37000,20,50,16
+R303,3,Pune,Hadapsar,Vendor C,56500,46000,20,50,16
+R304,3,Pune,Kharadi,Vendor C,56500,50000,20,50,16
+R305,3,Pune,Viman Nagar,Vendor C,56500,42000,20,50,16
+R306,3,Pune,Baner,Vendor C,56500,40500,20,50,16
+R307,3,Pune,Pimple Saudagar,Vendor C,56500,45000,20,50,16
+R308,3,Pune,Viman Nagar,Vendor C,56500,50000,20,50,16
+R309,3,Pune,Hadapsar,Vendor C,56500,37000,20,50,16
+R310,3,Pune,Pimple Saudagar,Vendor C,56500,50000,20,50,16
+R311,3,Pune,Baner,Vendor C,56500,45000,20,50,16
+R312,3,Pune,Kharadi,Vendor C,56500,46000,20,50,16
+R313,3,Pune,Aundh,Vendor C,56500,42000,20,50,16
+R314,3,Pune,Aundh,Vendor C,56500,42000,20,50,16
+R315,3,Pune,Hinjewadi,Vendor C,56500,37000,20,50,16
+R316,3,Pune,Baner,Vendor C,56500,42000,20,50,16
+R317,3,Pune,Aundh,Vendor C,56500,50000,20,50,16
+R318,3,Pune,Pimple Saudagar,Vendor C,56500,42000,20,50,16
+R319,3,Pune,Baner,Vendor C,56500,42000,20,50,16
+R320,3,Pune,Kharadi,Vendor C,56500,42000,20,50,16
+R321,3,Pune,Hinjewadi,Vendor C,56500,50000,20,50,16
+R322,3,Pune,Hadapsar,Vendor C,56500,46000,20,50,16
+R323,3,Pune,Aundh,Vendor C,56500,37000,20,50,16
+R324,3,Pune,Viman Nagar,Vendor C,56500,42000,20,50,16
+R325,3,Pune,Hadapsar,Vendor C,56500,42000,20,50,16
+R326,3,Pune,Pimple Saudagar,Vendor C,56500,37000,20,50,16
+R327,3,Pune,Kharadi,Vendor C,56500,50000,20,50,16
+R328,3,Pune,Wakad,Vendor C,56500,40500,20,50,16
+R329,3,Pune,Hadapsar,Vendor C,56500,42000,20,50,16
+R330,3,Pune,Hadapsar,Vendor C,56500,40500,20,50,16
+R331,3,Pune,Aundh,Vendor C,56500,45000,20,50,16
+R332,3,Pune,Wakad,Vendor C,56500,42000,20,50,16
+R333,3,Pune,Hinjewadi,Vendor C,56500,40500,20,50,16
+R334,3,Pune,Wakad,Vendor C,56500,45000,20,50,16
+R335,3,Pune,Aundh,Vendor C,56500,42000,20,50,16
+R401,4,Chennai,OMR,Vendor D,56500,45000,20,50,16
+R402,4,Chennai,OMR,Vendor D,56500,37000,20,50,16
+R403,4,Chennai,Guindy,Vendor D,56500,42000,20,50,16
+R404,4,Chennai,Porur,Vendor D,56500,40500,20,50,16
+R405,4,Chennai,Porur,Vendor D,56500,50000,20,50,16
+R406,4,Chennai,OMR,Vendor D,56500,42000,20,50,16
+R407,4,Chennai,Guindy,Vendor D,56500,42000,20,50,16
+R408,4,Chennai,Guindy,Vendor D,56500,45000,20,50,16
+R409,4,Chennai,Adyar,Vendor D,56500,40500,20,50,16
+R410,4,Chennai,Porur,Vendor D,56500,50000,20,50,16
+R411,4,Chennai,OMR,Vendor D,56500,37000,20,50,16
+R412,4,Chennai,Velachery,Vendor D,56500,37000,20,50,16
+R413,4,Chennai,Velachery,Vendor D,56500,45000,20,50,16
+R414,4,Chennai,OMR,Vendor D,56500,50000,20,50,16
+R415,4,Chennai,Tambaram,Vendor D,56500,37000,20,50,16
+R416,4,Chennai,Guindy,Vendor D,56500,42000,20,50,16
+R417,4,Chennai,Tambaram,Vendor D,56500,45000,20,50,16
+R418,4,Chennai,Velachery,Vendor D,56500,42000,20,50,16
+R419,4,Chennai,OMR,Vendor D,56500,40500,20,50,16
+R420,4,Chennai,Anna Nagar,Vendor D,56500,45000,20,50,16
+R421,4,Chennai,Velachery,Vendor D,56500,42000,20,50,16
+R422,4,Chennai,Anna Nagar,Vendor D,56500,37000,20,50,16
+R423,4,Chennai,Sholinganallur,Vendor D,56500,46000,20,50,16
+R424,4,Chennai,Anna Nagar,Vendor D,56500,42000,20,50,16
+R425,4,Chennai,Velachery,Vendor D,56500,42000,20,50,16
+R426,4,Chennai,Guindy,Vendor D,56500,37000,20,50,16
+R427,4,Chennai,Tambaram,Vendor D,56500,45000,20,50,16
+R428,4,Chennai,Sholinganallur,Vendor D,56500,42000,20,50,16
+R429,4,Chennai,Tambaram,Vendor D,56500,37000,20,50,16
+R430,4,Chennai,Guindy,Vendor D,56500,42000,20,50,16
+R431,4,Chennai,Anna Nagar,Vendor D,56500,46000,20,50,16
+R432,4,Chennai,Porur,Vendor D,56500,46000,20,50,16
+R433,4,Chennai,Tambaram,Vendor D,56500,37000,20,50,16
+R434,4,Chennai,OMR,Vendor D,56500,45000,20,50,16
+R435,4,Chennai,Tambaram,Vendor D,56500,45000,20,50,16
