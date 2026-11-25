@@ -10,6 +10,10 @@ At work this reconciliation was done by hand in Excel, across three separate wor
 
 This project rebuilds that process as a small **SQLite** database and a set of **SQL** queries. The queries check the three sources against each other and produce the month-end numbers management needs.
 
+## Interactive dashboard (Tableau Public)
+
+[View the dashboard](https://public.tableau.com/app/profile/aniket.chavan2474/viz/CabBillingReconciliationDashboard/CabBillingReconciliationSimulatedData): KPI summary, overbilling by vendor, top 10 routes, issues by type and monthly trend, built on the same simulated dataset as the SQL queries.
+
 > **Data note:** the data here is **simulated and anonymised**. It follows the structure, rates and distances of the real workbooks, but has no real cab numbers, people, addresses, clients or vendors. `generate_data.py` creates it from a fixed random seed, and plants known data issues so the SQL has real problems to find.
 
 ## Business questions
